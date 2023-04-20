@@ -190,11 +190,7 @@
             this.Controls.Add(this.tbCim);
             this.Controls.Add(this.label1);
             this.Name = "ModifyForm";
-<<<<<<< HEAD
             this.Text = "Módosítási form";
-=======
-            this.Text = "ModifyForm";
->>>>>>> 15c0f96d68eb91b82e2e12595307d2dfbd8df25e
             this.Load += new System.EventHandler(this.OnFormLoad);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
